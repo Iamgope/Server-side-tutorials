@@ -1,0 +1,25 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "learning backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamgope/Server-side-tutorials.git"
+  },
+  "keywords": [
+    "i",
+    "don't",
+    "know"
+  ],
+  "author": "Aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamgope/Server-side-tutorials/issues"
+  },
+  "homepage": "https://github.com/iamgope/Server-side-tutorials#readme"
+}
